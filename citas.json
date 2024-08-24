@@ -1,0 +1,23 @@
+[
+  {
+    "Nombre": "Botas",
+    "Edad": "11 meses",
+    "TipoDeAnimal": "gato",
+    "ColorDeAnimal": "negro",
+    "Enfermedad": "dolor de estomago"
+  },
+  {
+    "Nombre": "Zazi",
+    "Edad": "2 años",
+    "TipoDeAnimal": "perro",
+    "ColorDeAnimal": "blanco",
+    "Enfermedad": "patita lastiamda por caida"
+  },
+  {
+    "Nombre": "Alex",
+    "Edad": "1 año",
+    "TipoDeAnimal": "Perro",
+    "ColorDeAnimal": "gris",
+    "Enfermedad": "tos"
+  }
+]
